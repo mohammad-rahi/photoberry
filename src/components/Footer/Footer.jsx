@@ -9,7 +9,7 @@ const Footer = () => {
         <div className={styles.wrapper}>
           <div className={styles.footer_top_left}>
             <h2>About</h2>
-            <p>PhotoBerry is a React Application. For frontend I use React, Sass, and HTML5. And for backend I use Firebase. Thank you for exploring the PhotoBerry.</p>
+            <p>PhotoBerry is a React application. For the front-end, I used React, Sass, and HTML5. And for the backend I used Firebase. Thank you for exploring Photoberry.</p>
           </div>
           <div className={styles.footer_top_middle}>
             <h2>Let's Connect</h2>
