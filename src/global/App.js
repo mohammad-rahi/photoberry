@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { auth } from '../firebase/config';
 import { createUserWithEmailAndPassword, onAuthStateChanged, signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 
-import { Routes, Route, useNavigate, Navigate } from 'react-router-dom'
+import { Routes, Route, useNavigate} from 'react-router-dom'
 import styles from './app.module.scss'
 
 const App = () => {
