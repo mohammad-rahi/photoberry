@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photoberry/static/css/main.e214b0ed.css",
+    "main.js": "/photoberry/static/js/main.5b0a9ff5.js",
+    "static/media/bg.png": "/photoberry/static/media/bg.9ef10e950e959f667a24.png",
+    "static/media/Google__G__Logo.png": "/photoberry/static/media/Google__G__Logo.21540bf13766fb0d476b.png",
+    "index.html": "/photoberry/index.html",
+    "main.e214b0ed.css.map": "/photoberry/static/css/main.e214b0ed.css.map",
+    "main.5b0a9ff5.js.map": "/photoberry/static/js/main.5b0a9ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e214b0ed.css",
+    "static/js/main.5b0a9ff5.js"
+  ]
+}
