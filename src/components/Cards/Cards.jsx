@@ -8,7 +8,7 @@ const Cards = ({ setSelectedImage }) => {
 
     return (
         <div className={styles.cards}>
-            <h1 className={styles.title}><span>/</span> Photos</h1>
+            <h1 className={styles.title}><span>/</span>Users Photos</h1>
 
             <motion.div initial={{opacity: 0}} animate={{opacity: 1}} className={styles.wrapper}>
                 {
